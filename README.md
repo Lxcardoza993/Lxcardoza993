@@ -31,6 +31,8 @@ superpower: turning coffee into components ☕→⚛️
 
 **📊 [github-follower-dataset](https://github.com/Lxcardoza993/github-follower-dataset)** — 356 个粉丝过万的 GitHub 用户全量数据 · 356-user dataset behind my [GitHub follower research](https://blog.lxlynx.com/posts/github-follower-leaderboard-non-celebrity/) 🌸
 
+**✍️ [writings](https://github.com/Lxcardoza993/writings)** — 精选文章集 · curated essays from my blog 📝
+
 *more cute things shipping soon 🧋*
 
 </div>
