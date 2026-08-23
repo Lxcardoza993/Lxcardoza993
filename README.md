@@ -7,7 +7,6 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%80-currently%20brewing-ffb3d1?style=for-the-badge" alt="status" />
   <img src="https://komarev.com/ghpvc/?username=Lxcardoza993&label=visitors&color=e754a6&style=for-the-badge" alt="visitors" />
 </div>
 
@@ -23,8 +22,18 @@ superpower: turning coffee into components ☕→⚛️
 
 - 🪄 I sprinkle a little magic into every `<div>` — soft gradients, rounded corners, and zero scary bugs (okay, *almost* zero).
 - 🎨 Obsessed with making things not just **work**, but feel *delightful*.
-- 🧋 My debugging fuel is 30% code, 70% milk tea. The pearls are non-negotiable.
+- ✍️ I write about data, open source and the funny side of tech on [my blog](https://blog.lxlynx.com).
 - 🌟 If something here makes you smile or saves you time, **leaving a star is the cutest way to say hi!** ⭐
+
+## 🪄 What I'm building
+
+<div align="center">
+
+[![Blog](https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Lxcardoza993&repo=github-follower-dataset&theme=radical&hide_border=true)](https://github.com/Lxcardoza993/github-follower-dataset)
+
+*more cute things shipping soon 🧋*
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -54,7 +63,8 @@ superpower: turning coffee into components ☕→⚛️
 
 <div align="center">
 
-[![Profile](https://img.shields.io/badge/%F0%9F%8C%B8-GitHub%20Profile-e754a6?style=for-the-badge)](https://github.com/Lxcardoza993)
+[![Blog](https://img.shields.io/badge/%F0%9F%93%9D-Blog%20%E2%80%94%20blog.lxlynx.com-e754a6?style=for-the-badge)](https://blog.lxlynx.com)
+[![Profile](https://img.shields.io/badge/%F0%9F%8C%B8-Follow%20me-e754a6?style=for-the-badge)](https://github.com/Lxcardoza993)
 
 *⭐ Star a repo if you like it — it makes my day and feeds the milk tea fund 🧋*
 
