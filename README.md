@@ -29,7 +29,7 @@ superpower: turning coffee into components ☕→⚛️
 
 <div align="center">
 
-[![Blog](https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Lxcardoza993&repo=github-follower-dataset&theme=radical&hide_border=true)](https://github.com/Lxcardoza993/github-follower-dataset)
+**📊 [github-follower-dataset](https://github.com/Lxcardoza993/github-follower-dataset)** — 356 个粉丝过万的 GitHub 用户全量数据 · 356-user dataset behind my [GitHub follower research](https://blog.lxlynx.com/posts/github-follower-leaderboard-non-celebrity/) 🌸
 
 *more cute things shipping soon 🧋*
 
