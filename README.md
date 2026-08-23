@@ -45,7 +45,7 @@ superpower: turning coffee into components ☕→⚛️
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lxcardoza993&show_icons=true&theme=radical&hide_border=true&bg_color=0,ff9ecd,ffc2e0&title_color=ffffff&text_color=5c1046&icon_color=ffffff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Lxcardoza993&hide_border=true&background=60,10,40,00,FF9ECD,FFC2E0&ring=F06EA9&fire=FF6FB5&currStreakLabel=D6338F&sideLabels=B45A96&dates=8C4A6E&currStreakNum=5C1046&sideNums=5C1046" alt="streak stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Lxcardoza993&hide_border=true&background=FFF0F7&ring=F06EA9&fire=FF6FB5&currStreakLabel=D6338F" alt="streak stats" />
   <br/>
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lxcardoza993&layout=compact&theme=radical&hide_border=true&bg_color=0,ffc2e0,ff9ecd&title_color=5c1046&text_color=5c1046" alt="top langs" />
 </div>
