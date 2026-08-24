@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <defs>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF8FAB"/>
+      <stop offset="1" stop-color="#B48FC9"/>
+    </linearGradient>
+    <pattern id="dots" width="60" height="60" patternUnits="userSpaceOnUse">
+      <circle cx="30" cy="30" r="2.6" fill="#FFE3EC"/>
+    </pattern>
+    <path id="spark" d="M0 -11 C 1.5 -3 2.5 -1.5 11 0 C 2.5 1.5 1.5 3 0 11 C -1.5 3 -2.5 1.5 -11 0 C -2.5 -1.5 -1.5 -3 0 -11 Z"/>
+    <path id="heart" d="M0 3 C -4 -2 -8 -2 -8 2 C -8 5 -4 7 0 10 C 4 7 8 5 8 2 C 8 -2 4 -2 0 3 Z"/>
+  </defs>
+
+  <!-- canvas -->
+  <rect width="1200" height="340" fill="#FFF8FB"/>
+  <rect width="1200" height="340" fill="url(#dots)" opacity="0.8"/>
+
+  <!-- rounded soft frames -->
+  <rect x="20" y="20" width="1160" height="300" rx="30" fill="none" stroke="#FFB6C9" stroke-opacity="0.55" stroke-width="1.5"/>
+  <rect x="27" y="27" width="1146" height="286" rx="24" fill="none" stroke="#D9C7F0" stroke-opacity="0.55" stroke-width="1.5"/>
+
+  <!-- text block -->
+  <text x="86" y="112" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" letter-spacing="7" fill="#B48FC9">TOKYO · MAGIC · CODE</text>
+  <text x="82" y="210" font-family="'Comic Sans MS', 'Chalkboard SE', 'Segoe Print', cursive" font-size="104" font-weight="bold" fill="url(#titleGrad)">Lx 🎀</text>
+  <line x1="86" y1="242" x2="330" y2="242" stroke="#FFB6C9" stroke-width="1.5" stroke-opacity="0.6"/>
+  <text x="86" y="280" font-family="'Comic Sans MS', 'Chalkboard SE', cursive" font-size="23" fill="#FF7F9F">魔法学徒 · 用代码创造可爱的事物 ✨</text>
+  <text x="86" y="312" font-family="'Comic Sans MS', 'Chalkboard SE', cursive" font-size="17" fill="#B48FC9">🍵 写代码必须配奶茶</text>
+
+  <!-- magic wand -->
+  <g>
+    <line x1="952" y1="250" x2="1016" y2="138" stroke="#B48FC9" stroke-width="5.5" stroke-linecap="round"/>
+    <line x1="984" y1="194" x2="1010" y2="154" stroke="#D9C7F0" stroke-width="3" stroke-linecap="round"/>
+    <use href="#spark" transform="translate(1020 128) scale(1.5)" fill="#FFB84D"/>
+  </g>
+
+  <!-- boba tea -->
+  <g transform="translate(872 208)">
+    <line x1="32" y1="2" x2="50" y2="-34" stroke="#FF9AB5" stroke-width="4.5" stroke-linecap="round"/>
+    <ellipse cx="32" cy="0" rx="32" ry="8" fill="#FFC5D9"/>
+    <rect x="0" y="0" width="64" height="78" rx="11" fill="#FFE3EC" stroke="#FF9AB5" stroke-width="1.6"/>
+    <circle cx="16" cy="62" r="5" fill="#7A5C4B" opacity="0.85"/>
+    <circle cx="32" cy="68" r="5" fill="#7A5C4B" opacity="0.85"/>
+    <circle cx="48" cy="60" r="5" fill="#7A5C4B" opacity="0.85"/>
+    <use href="#heart" transform="translate(57 40) scale(0.9)" fill="#FF7F9F"/>
+  </g>
+
+  <!-- floating hearts -->
+  <g fill="#FF9AB5">
+    <use href="#heart" transform="translate(742 118) scale(1.1)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -16; 0 0" dur="7s" begin="1s" repeatCount="indefinite" additive="sum"/>
+    </use>
+    <use href="#heart" transform="translate(770 218) scale(0.8)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -20; 0 0" dur="8s" begin="2.5s" repeatCount="indefinite" additive="sum"/>
+    </use>
+  </g>
+
+  <!-- twinkling sparkles -->
+  <g>
+    <use href="#spark" transform="translate(428 138) scale(1.1)" fill="#FFB84D">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" repeatCount="indefinite"/>
+    </use>
+    <use href="#spark" transform="translate(486 190) scale(0.7)" fill="#B48FC9">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" begin="0.6s" repeatCount="indefinite"/>
+    </use>
+    <use href="#spark" transform="translate(620 120) scale(0.9)" fill="#FF7F9F">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" begin="1.2s" repeatCount="indefinite"/>
+    </use>
+    <use href="#spark" transform="translate(700 250) scale(0.6)" fill="#FFB84D">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" begin="1.8s" repeatCount="indefinite"/>
+    </use>
+    <use href="#spark" transform="translate(972 218) scale(0.75)" fill="#FF7F9F">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" begin="0.9s" repeatCount="indefinite"/>
+    </use>
+    <use href="#spark" transform="translate(1006 162) scale(0.55)" fill="#FFB84D">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <!-- corner caption -->
+  <text x="1128" y="306" text-anchor="end" font-family="'Comic Sans MS', 'Chalkboard SE', cursive" font-size="14" fill="#D9A0C0">thanks for the stars 🌟</text>
+</svg>
