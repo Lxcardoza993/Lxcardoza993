@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="assets/banner.svg" alt="Lx 🎀 — 魔法学徒的代码小屋" width="100%">
-</div>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ecd,100:ffc2e0&height=180&section=header&text=Hi%20there%2C%20I'm%20Lx!%20%F0%9F%8C%B8&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=%E2%9C%A8%20welcome%20to%20my%20little%20corner%20of%20code%20%E2%9C%A8&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
+</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cute+Font&size=28&pause=1000&color=F06EA9&center=true&vCenter=true&random=false&width=600&lines=%E2%9C%A8+Front-end+Magician+%F0%9F%AA%84;%F0%9F%8E%A8+UI%2FX+Enthusiast;%F0%9F%A7%8B+Powered+by+Milk+Tea+%26+Code;%F0%9F%8C%9F+Welcome+to+my+GitHub!" alt="Typing SVG" />
