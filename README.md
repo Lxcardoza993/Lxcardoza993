@@ -85,3 +85,11 @@ superpower: turning coffee into components ☕→⚛️
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc2e0,100:ff9ecd&height=120&section=footer&text=thanks%20for%20visiting!%20%F0%9F%92%95&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
 </h1>
+
+## 📮 Telegram
+
+I run a daily Chinese AI/tech news channel with source links on every post:
+
+**[t.me/Lx_groups](https://t.me/Lx_groups)** — no login needed to browse: [t.me/s/Lx_groups](https://t.me/s/Lx_groups)
+
+Long-form deep dives: [blog.lynxflow.co](https://blog.lynxflow.co) · what the channel is: [blog.lxlynx.com/tg-channel-landing/](https://blog.lxlynx.com/tg-channel-landing/)
